@@ -1,12 +1,12 @@
 # Python Project
 
-A simple Python project.
+A simple Python learning folder.
 
 ## Features
 
-- Easy to use
-- Written in Python
-- Simple and lightweight
+- Basic to advance
+- Daily questions
+- Daily update
 
 ## Requirements
 

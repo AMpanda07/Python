@@ -9,4 +9,4 @@ sum = 0
 for n in range(nl,nr):
     if n%2==1:
         sum +=n
-print("sum of all the odd numbers are: ", sum)
+print("sum of all the odd numbers in given range are: ", sum)
