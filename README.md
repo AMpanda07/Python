@@ -1,4 +1,5 @@
-# Python Project
+# Python Programming
+## updates daily 
 
 A simple Python learning folder.
 
