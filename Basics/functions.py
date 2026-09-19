@@ -2,8 +2,6 @@
 #* Functions and recursion
 n=int(input("enter count down: "))
 
-
-
 def bomb(n):
     if not n:
         print("A")
