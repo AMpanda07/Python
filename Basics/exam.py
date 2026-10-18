@@ -33,7 +33,7 @@
 #     print(temp, "is not an Armstrong number")
 
 #? PALINDROME 
-
+#!
 n = 121
 temp = n
 rev = 0
